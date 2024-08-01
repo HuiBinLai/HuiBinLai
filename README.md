@@ -3,7 +3,7 @@
 - 🌱 Currently, I am actively learning about reinforcement learning, large language models, and intelligent information retrieval to enhance my skills.
 - 💞️ I am eager to collaborate with like-minded individuals to advance AI-related projects and engage in exciting explorations and research.
 - 📫 If you would like to get in touch, feel free to reach out to me at 2022201397@ruc.edu.cn. I look forward to hearing from you!
-- 😄 My pronouns are LaiBB, and I am open to sharing diverse perspectives and ideas.
+- 😄 My pronouns are he/him.
 - ⚡ Fun fact: I enjoy skiing and photography!
 
 <!---
